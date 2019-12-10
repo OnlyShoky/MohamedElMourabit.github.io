@@ -185,7 +185,7 @@ svg .edge text {
 .main {
   display: flex;
   flex-direction: column;
-  justify-content: space-evenly; }
+  justify-content: space-between; }
 
 .infoPerso {
   display: flex;
@@ -261,7 +261,7 @@ svg .edge text {
 
 @media screen and (min-width: 22cm), print {
   .page h1, .page h2, .page h3, .page h4, .page h5, .page div {
-    margin: 0; } }
+    margin: 5px; } }
 @media screen and (max-width: 22cm) {
   header {
     margin: 0; }
