@@ -205,21 +205,21 @@ svg .edge text {
   display: flex;
   justify-content: flex-start;
   align-items: center;
-  color: #8ec07c; }
+  color: #ebdbb2; }
 
 .infoPersoItem p, .infoPersoItem a {
-  color: #8ec07c; }
+  color: #ebdbb2; }
 
 .tag {
   border-style: solid;
   border-width: 1px;
   border-radius: 3px;
-  border-color: #fe8019;
+  border-color: #060359;
   padding: 2px;
   margin: 1px;
   font-style: italic;
-  color: #fe8019;
-  background: #32302f;
+  color: #fff;
+  background: #060359;
   font-size: 9pt;
   display: inline-block;
   text-align: center; }
@@ -238,7 +238,7 @@ svg .edge text {
   font-size: 10pt; }
 
 .skillOn svg {
-  fill: #fb4934;
+  fill: #060359;
   height: 12pt;
   width: 12pt; }
 
